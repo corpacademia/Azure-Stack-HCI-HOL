@@ -1,4 +1,4 @@
-# Admin Lab 04 - Hydrating MSLab with SCVMM
+# Admin Lab 03 - Hydrating MSLab with SCVMM
 
 <!-- TOC -->
 
