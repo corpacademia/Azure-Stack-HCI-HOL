@@ -1,4 +1,4 @@
-# Admin Lab 01 - Hydrating MSLab
+# Admin Lab 01 - Hydrating MSLab ( This Admin Lab 01 part has already been preconfigured for your convenience. )
 
 <!-- TOC -->
 
@@ -24,13 +24,13 @@ In this lab you will learn how to prepare MSLab to be able to setup labs. As res
 
 * Hyper-V feature has to be enabled (tool will check it for you)
 
-* at least 16GB RAM
+* at least 32GB RAM
 
-* at least 100GB free space on SSD
+* at least 500GB free space on SSD
 
 Optionally you can setup VM in Azure Virtual Machine.
 
-## Task 2 - Download all necessary files
+## Task 2 - Download all necessary files ( The Files are already downlaoded and Kept on the C:\labs\  folder of your lab machine)
 
 In this task you will download all necessary files required to setup [MSLab](https://aka.ms/mslab).
 
