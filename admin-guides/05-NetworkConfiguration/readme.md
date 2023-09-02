@@ -1,4 +1,4 @@
-# Network configuration
+# Network configuration ( This Lab applies Only for Phyical Lab Setup )
 
 <!-- TOC -->
 
